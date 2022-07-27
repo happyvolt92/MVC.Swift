@@ -1,2 +1,2 @@
 # OpenQuizz
-This quiz app supports a course on iOS development on OpenClassrooms.
+This quiz app exercices on iOS development on OpenClassrooms.
